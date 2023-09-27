@@ -1,0 +1,4 @@
+﻿  CPP_FPS.cpp
+E:\VS Projects\CPP_FPS\CPP_FPS\CPP_FPS\CPP_FPS.cpp(17,12): warning C4305: 'initializing': truncation from 'double' to 'float'
+E:\VS Projects\CPP_FPS\CPP_FPS\CPP_FPS\CPP_FPS.cpp(194,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  CPP_FPS.vcxproj -> E:\VS Projects\CPP_FPS\CPP_FPS\x64\Debug\CPP_FPS.exe
